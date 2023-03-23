@@ -1,0 +1,21 @@
+.first{
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+.second{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.third input{
+    margin: 50px;
+    padding: 6px 30px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 25px;
+}
